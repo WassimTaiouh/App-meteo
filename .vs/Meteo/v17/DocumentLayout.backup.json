@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{268588EF-5189-4F39-AEF2-47A1BA920CE0}|Meteo.csproj|c:\\wassim\\cda\\c#\\projet\\app_meteo1\\meteo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268588EF-5189-4F39-AEF2-47A1BA920CE0}|Meteo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268588EF-5189-4F39-AEF2-47A1BA920CE0}|Meteo.csproj|C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\info_meteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268588EF-5189-4F39-AEF2-47A1BA920CE0}|Meteo.csproj|solutionrelative:info_meteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268588EF-5189-4F39-AEF2-47A1BA920CE0}|Meteo.csproj|C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{268588EF-5189-4F39-AEF2-47A1BA920CE0}|Meteo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268588EF-5189-4F39-AEF2-47A1BA920CE0}|Meteo.csproj|C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268588EF-5189-4F39-AEF2-47A1BA920CE0}|Meteo.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:47:24.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:92542172:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Info_meteo.cs",
+              "DocumentMoniker": "C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\Info_meteo.cs",
+              "RelativeDocumentMoniker": "Info_meteo.cs",
+              "ToolTip": "C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\Info_meteo.cs",
+              "RelativeToolTip": "Info_meteo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:47:24.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAP0CAAAAAAAAAAAnwBADAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-09-16T22:47:24.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Wassim\\CDA\\C#\\Projet\\app_meteo1\\Meteo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Wassim\\CDA\\Projet\\app_meteo1\\Meteo\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Projet\\app_meteo1\\Meteo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-16T22:47:24.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Meteo.Weatherform" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wQEIhBAACAgARAAAACAYAEigAAKAAAAQAAgAAhAArA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Meteo.Meteoinfo">
+    <Position X="0.5" Y="3.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Meteo.Meteoinfo.Request" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Info_meteo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Meteo.Meteoinfo.location" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Info_meteo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Meteo.Meteoinfo.current">
+        <TypeIdentifier>
+          <NewMemberFileName>Info_meteo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Meteo.Meteoinfo.root" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Info_meteo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Info_meteo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Meteo.Program" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Meteo.Properties.Resources">
+    <Position X="3.5" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAABAAAEAAAEIAABFAAEAwAAAAADACBAAAgAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Meteo.Properties.Settings" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="2.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
